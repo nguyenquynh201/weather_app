@@ -4,7 +4,7 @@ Hãy clone nếu bạn thích
 
 ## Demo Image App
 
-![Splash](https://scontent.fdad1-1.fna.fbcdn.net/v/t1.15752-9/285150059_8470121359671960_4059295335430518405_n.png)
+![Splash]![image](https://user-images.githubusercontent.com/80728170/177022868-af843deb-d920-44e0-95d7-c32e8e0f9753.png))
 ![Home](https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/289114091_440667394575761_7884157073065583474_n.png)
 ![Home BottomSheet Weather Country](https://scontent.fdad2-1.fna.fbcdn.net/v/t1.15752-9/286493568_1021146445117367_5173535500857020942_n.png)
 ![Detail Weather Current](https://scontent.fdad1-2.fna.fbcdn.net/v/t1.15752-9/288420342_991011411585334_3430075096552192221_n.png)
